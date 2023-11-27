@@ -1,0 +1,98 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg170714" viewBox="0 0 1024 768"
+     height="768px" width="1024px" version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://purl.org/dc/elements/1.1/
+http://www.w3.org/1999/02/22-rdf-syntax-ns#
+http://creativecommons.org/ns# ">
+  <metadata id="metadata170720">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <defs id="defs170718"></defs>
+  <linearGradient spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%"
+                  id="3d_gradient2-logo-7d698f7b-0c3d-4e4a-a5b0-412d7e8293ef">
+    <stop id="stop170695" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop170697" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <linearGradient gradientTransform="rotate(-30)" spreadMethod="pad" y2="30%" x2="-10%" y1="120%" x1="30%"
+                  id="3d_gradient3-logo-7d698f7b-0c3d-4e4a-a5b0-412d7e8293ef">
+    <stop id="stop170700" stop-opacity="1" stop-color="#ffffff" offset="0%"></stop>
+    <stop id="stop170702" stop-opacity="1" stop-color="#cccccc" offset="50%"></stop>
+    <stop id="stop170704" stop-opacity="1" stop-color="#000000" offset="100%"></stop>
+  </linearGradient>
+  <g id="logo-group">
+    <image xlink:href="" id="container" style="display: none;" x="272" y="144" width="480" height="480"
+           transform="translate(0 0)"></image>
+    <g id="logo-center" transform="translate(91.88215909090911 0)">
+      <image xlink:href="" id="icon_container" style="display: none;" x="0" y="0"></image>
+      <g id="slogan"
+         style="font-style:normal;font-weight:300;font-size:32px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+         transform="translate(0 0)"></g>
+      <g id="title"
+         style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+         transform="translate(0 0)">
+        <path id="path170723"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 292.51194,-50.4 h -3.6 l -15.48,45.432 -15.696,-45.432 h -3.528 l -15.768,45.36 -15.336,-45.36 h -3.888 l 17.136,50.4 h 3.888 l 15.696,-45.216 15.624,45.216 h 3.888 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(50 36.61454545454546) scale(1.2727272727272727) translate(-219.21594 50.4)"></path>
+        <path id="path170725"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="M 303.02619,-50.4 V 0 h 3.672 v -50.4 z" stroke-width="0" stroke-linejoin="miter"
+              stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(156.6675909090909 36.61454545454546) scale(1.2727272727272727) translate(-303.02619 50.4)"></path>
+        <path id="path170727"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="M 324.26056,-50.4 V 0 h 32.688 v -3.312 h -29.016 V -50.4 Z" stroke-width="0"
+              stroke-linejoin="miter" stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(183.69315272727272 36.61454545454546) scale(1.2727272727272727) translate(-324.26056 50.4)"></path>
+        <path id="path170729"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="M 366.44806,-50.4 V 0 h 32.688 v -3.312 h -29.016 V -50.4 Z" stroke-width="0"
+              stroke-linejoin="miter" stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(237.38633454545456 36.61454545454546) scale(1.2727272727272727) translate(-366.44806 50.4)"></path>
+        <path id="path170731"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 415.64319,-2.952 c 3.96,2.232 8.424,3.312 13.392,3.312 4.896,0 9.36,-1.08 13.392,-3.312 3.96,-2.16 7.056,-5.256 9.36,-9.144 2.304,-3.888 3.456,-8.208 3.456,-13.104 0,-4.824 -1.152,-9.216 -3.456,-13.104 -2.304,-3.888 -5.4,-6.912 -9.36,-9.144 -4.032,-2.16 -8.496,-3.312 -13.392,-3.312 -4.968,0 -9.432,1.152 -13.392,3.384 -4.032,2.232 -7.128,5.256 -9.432,9.144 -2.304,3.888 -3.384,8.28 -3.384,13.032 0,4.824 1.08,9.144 3.384,13.032 2.304,3.888 5.4,6.984 9.432,9.216 z m 24.84,-2.952 c -3.456,1.944 -7.272,2.88 -11.448,2.88 -4.248,0 -8.064,-0.936 -11.52,-2.88 -3.456,-1.872 -6.12,-4.536 -8.064,-7.92 -2.016,-3.384 -2.952,-7.2 -2.952,-11.376 0,-4.176 0.936,-7.92 2.952,-11.304 1.944,-3.384 4.608,-6.048 8.064,-7.992 3.456,-1.872 7.272,-2.88 11.52,-2.88 4.176,0 7.992,1.008 11.448,2.88 3.384,1.944 6.048,4.608 8.064,7.992 1.944,3.384 2.952,7.128 2.952,11.304 0,4.176 -1.008,7.992 -2.952,11.376 -2.016,3.384 -4.68,6.048 -8.064,7.92 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(283.68704545454545 36.15636363636364) scale(1.2727272727272727) translate(-402.82719 50.76)"></path>
+        <path id="path170733"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 533.82444,-50.4 h -3.6 l -15.48,45.432 -15.696,-45.432 h -3.528 l -15.768,45.36 -15.336,-45.36 h -3.888 l 17.136,50.4 h 3.888 l 15.696,-45.216 15.624,45.216 h 3.888 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#66cbc4" stroke="#66cbc4"
+              transform="translate(0 315.3127272727273) translate(357.125 36.61454545454546) scale(1.2727272727272727) translate(-460.52844 50.4)"></path>
+        <path id="path170735"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 612.85569,-50.4 h -3.6 l -15.48,45.432 -15.696,-45.432 h -3.528 l -15.768,45.36 -15.336,-45.36 h -3.888 l 17.136,50.4 h 3.888 l 15.696,-45.216 15.624,45.216 h 3.888 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#6f9995" stroke="#6f9995"
+              transform="translate(0 315.3127272727273) translate(457.71022727272737 36.61454545454546) scale(1.2727272727272727) translate(-539.55969 50.4)"></path>
+        <path id="path170737"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 655.98594,-27.216 h -32.616 v 3.24 h 32.616 z m 0,-23.184 h -32.616 v 3.312 h 32.616 z m -32.616,47.088 V 0 h 32.616 v -3.312 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#6f9995" stroke="#6f9995"
+              transform="translate(0 315.3127272727273) translate(564.3778181818182 36.61454545454546) scale(1.2727272727272727) translate(-623.36994 50.4)"></path>
+        <path id="path170739"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 690.03631,-50.4 h -3.672 L 663.18031,0 h 3.96 l 21.024,-46.368 21.096,46.368 h 3.96 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#6f9995" stroke="#6f9995"
+              transform="translate(0 315.3127272727273) translate(615.0455618181817 36.61454545454546) scale(1.2727272727272727) translate(-663.18031 50.4)"></path>
+        <path id="path170741"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 760.08669,-50.4 h -3.816 l -20.376,45.648 -20.376,-45.648 h -4.032 l 22.464,50.4 h 3.672 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#6f9995" stroke="#6f9995"
+              transform="translate(0 315.3127272727273) translate(676.5264090909089 36.61454545454546) scale(1.2727272727272727) translate(-711.48669 50.4)"></path>
+        <path id="path170743"
+              style="font-style:normal;font-weight:300;font-size:72px;line-height:1;font-family:'Montserrat Light Alt1';font-variant-ligatures:none;text-align:center;text-anchor:middle"
+              d="m 800.82969,-27.216 h -32.616 v 3.24 h 32.616 z m 0,-23.184 h -32.616 v 3.312 h 32.616 z m -32.616,47.088 V 0 h 32.616 v -3.312 z"
+              stroke-width="0" stroke-linejoin="miter" stroke-miterlimit="2" fill="#6f9995" stroke="#6f9995"
+              transform="translate(0 315.3127272727273) translate(748.724409090909 36.61454545454546) scale(1.2727272727272727) translate(-768.21369 50.4)"></path>
+      </g>
+      <image xlink:href="" id="icon" style="display: none;" x="0" y="0"></image>
+    </g>
+  </g>
+</svg>

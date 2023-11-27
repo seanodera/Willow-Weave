@@ -1,3 +1,23 @@
+
+@import "_variables";
+/* change the colors */
+$secondary: #66cbc4;
+$border-color: #262626;
+$font-family-sans-serif: 'Montserrat-Alt1';
+
+//$dark: #171515;
+//$dark: #211515;
+$dark: #6f9995;
+$primary: $white;
+//$danger: #dd0000;
+//$success: lime;
+//$warning: orange;
+//$info: aqua;
+
+$body-bg: #f8f7f4;
+
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +56,7 @@
     transform: rotate(360deg);
   }
 }
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import "_bootswatch.scss";
+
